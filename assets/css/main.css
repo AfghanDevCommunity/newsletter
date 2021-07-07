@@ -919,3 +919,8 @@ button,
   border-radius: 20px;
   padding: 2px 20px;
 }
+
+.back-button {
+  position: absolute;
+  top: 2%;
+}
