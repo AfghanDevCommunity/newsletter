@@ -1,5 +1,3 @@
-# newsletter
-
 # Afghan Dev . newsletter
 
 We software engineers and computer enthusiasts come across interesting content from time to time
