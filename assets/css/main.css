@@ -885,3 +885,37 @@ button,
       left: auto;
       margin: 1em 0 0 0;
       position: relative; } }
+
+
+.get-started-button {
+  border: 1px solid;
+  border-radius: 6px;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 5px 16px;
+  position: relative;
+  user-select: none;
+  vertical-align: middle;
+  white-space: nowrap;
+  background-color: #238636;
+  border-color: #238636;
+  color: white;
+  margin-right: 5px;
+}    
+
+.verify-budget {
+  color: white;
+  background-color: green;
+  border-radius: 20px;
+  padding: 2px 20px;
+}
+
+.current-week-budget {
+  color: white;
+  background-color: gray;
+  border-radius: 20px;
+  padding: 2px 20px;
+}
